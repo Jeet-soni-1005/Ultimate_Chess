@@ -44,5 +44,9 @@ An online chess platform where users can play chess instantly without the hassle
 3. If two players are already playing, you can watch the game in spectator mode.
 4. Enjoy the game!
 
-## Project Structure
+## Project Preview
+- **Two players got connected**:
+![Online Chess Platform](public/images/chess1.png)
+- **Playing their game in real time**:
+![Online Chess Platform](public/images/chess2.png)
 
