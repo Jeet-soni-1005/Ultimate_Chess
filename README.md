@@ -32,21 +32,26 @@ An online chess platform where users can play chess instantly without the hassle
 
 3. **Run the application**:
     ```bash
-    npm start
+    npm nodemon app.js
     ```
 
-4. **Visit the application** in your browser at `http://localhost:3000`.
+4. **Visit the Game** in your browser at `http://127.0.0.1:3000/`.
 
 ## How to Play
 
 1. Visit the website.
-2. If there is an available opponent, you will be automatically paired.
+2. If there is an available opponent also requesting for a game, you will be automatically paired.
 3. If two players are already playing, you can watch the game in spectator mode.
 4. Enjoy the game!
 
 ## Project Preview
 - **Two players got connected**:
-![Online Chess Platform](public/images/chess1.png)
+![Online Chess Platform](public/images/chess11.png)
+
 - **Playing their game in real time**:
-![Online Chess Platform](public/images/chess2.png)
+![Online Chess Platform](public/images/chess22.png)
+
+- **Alert on invalid move**:
+- ![Online Chess Platform](public/images/chess33.png)
+
 
